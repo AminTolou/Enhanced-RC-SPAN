@@ -11,6 +11,7 @@ Keywords: Single Image Super Resolution, , Channel Splitting Attention, Parrall 
 
 
 This Code are based RCAN and EDSR . thanks for share it.
+The code is based on the EDSR (Enhanced Deep Super-Resolution) and RCAN (Residual Channel Attention Network) methods. https://github.com/sanghyun-son/EDSR-PyTorch https://github.com/yulunzhang/RCAN This implementation takes the foundations of those previous models and builds upon them.
 
 ![image](https://github.com/user-attachments/assets/b32200c4-5023-47e5-a360-7dc8cee82eba)
 
