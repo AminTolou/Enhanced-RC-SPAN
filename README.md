@@ -1,4 +1,4 @@
-# Enhanced-RC-SPAN
+# RPC-SPAN
  RPC-SPAN -Residual Parallel Channel  Splitting Attention Network for Single Image Super resolution 
 
 
