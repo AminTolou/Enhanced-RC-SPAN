@@ -16,19 +16,20 @@ The code is based on the EDSR (Enhanced Deep Super-Resolution) and RCAN (Residua
 
 ![image](https://github.com/user-attachments/assets/f001e9f7-8b43-4c03-b13e-068de81ccde5)
 
+![image](https://github.com/user-attachments/assets/09f11089-3e8a-40d6-9efc-54cf0c05e6a0)
 
-![image](https://github.com/user-attachments/assets/bc244d2e-3e46-45be-9427-331f34c39e98)
+![image](https://github.com/user-attachments/assets/79ad6552-7b3f-449b-87f9-9c07f4cdb5c6)
 
-
-![image](https://github.com/user-attachments/assets/f046f116-a9bb-43a5-a0df-c5149f77ff3d)
+![image](https://github.com/user-attachments/assets/b7201ebe-4392-4fd4-9d61-dea8175b47dd)
 
 5 Conclusion, Potential Applications, and Future Work
 
-In conclusion, the E-RCSPAN method has demonstrated superior performance compared to existing techniques such as  RC-SPAN in the realm of super-resolution image processing. Through quantitative evaluation, it has been shown to consistently achieve higher PSNR, SSIM, and PI values, highlighting its effectiveness in producing high-quality super-resolution results. The visual representation further emphasizes the enhancement provided by E-RCSPAN over RC-SPAN, showcasing its potential for advancing image enhancement technologies.
+In conclusion, the RPC-SPAN method has demonstrated superior performance compared to existing techniques such as  RC-SPAN in the realm of super-resolution image processing. Through quantitative evaluation, it has been shown to consistently achieve higher PSNR, SSIM, and PI values, highlighting its effectiveness in producing high-quality super-resolution results. The visual representation further emphasizes the enhancement provided by RPC-SPAN over RC-SPAN, showcasing its potential for advancing image enhancement technologies.
 
-          The E-RCSPAN method holds significant potential for various applications in the field of image processing and computer vision. Some potential applications include medical imaging for enhancing diagnostic accuracy, surveillance systems for improving image clarity, satellite imaging for enhancing spatial resolution, and digital photography for enhancing image quality. Additionally, the superior performance of E-RCSPAN in generating high-quality super-resolution results opens up opportunities for applications in video processing, content creation, and virtual reality.
+          The RPC-SPAN method holds significant potential for various applications in the field of image processing and computer vision. Some potential applications include medical imaging for enhancing diagnostic accuracy, surveillance systems for improving image clarity, satellite imaging for enhancing spatial resolution, and digital photography for enhancing image quality. Additionally, the superior performance of RPC-SPAN in generating high-quality super-resolution results opens up opportunities for applications in video processing, content creation, and virtual reality.
 
-           Moving forward, future work on the E-RCSPAN method could focus on further optimizing the algorithm to enhance computational efficiency and reduce processing time. Additionally, exploring the application of E-RCSPAN in real-time image processing scenarios and integrating it with deep learning frameworks could further enhance its capabilities. Further research could also investigate the adaptability of E-RCSPAN to different types of images and explore its potential for multi-modal image enhancement. Overall, continued research and development on the E-RCSPAN method could lead to advancements in super-resolution image processing and open up new possibilities for image enhancement technologies.
+           Moving forward, future work on the RPC-SPAN method could focus on further optimizing the algorithm to enhance computational efficiency and reduce processing time. Additionally, exploring the application of RPC-SPAN in real-time image processing scenarios and integrating it with deep learning frameworks could further enhance its capabilities. Further research could also investigate the adaptability of RPC-SPAN to different types of images and explore its potential for multi-modal image enhancement. Overall, continued research and development on the RPC-SPAN method could lead to advancements in super-resolution image processing and open up new possibilities for image enhancement technologies.
+
 ####################################################################################################################################
 1- Prepare training data Download DIV2K training data https://data.vision.ee.ethz.ch/cvl/DIV2K/
 
