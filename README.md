@@ -2,11 +2,10 @@
  RPC-SPAN -Residual Parallel Channel  Splitting Attention Network for Single Image Super resolution 
 
 
-E-RPCSPAN-Enhanced RC-SPAN for Single-Image Super Resolution 
 
 Abstract
 This paper presents a novel approach to image super-resolution that incorporates the Parallel Channel Attention (PCA) mechanism within the Residual Channel Split Attention Network (RC-SPAN). The aim is to enhance the network's ability to prioritize key features while effectively balancing the contributions from different channels, thereby improving image quality and detail retention. The RC-SPAN architecture is thoughtfully constructed, including a shallow feature extraction module, multiple residual groups, an attention mechanism, an upscaling module, and a reconstruction component. We integrate Parallel Channel Attention into the attention mechanism, which combines global average pooling with a texture function. This method evaluates channel importance by using the contrast of each channel alongside the average, with the expectation that channels rich in texture will exhibit higher contrast, leading to a more accurate assessment of channel significance and better detail preservation in the reconstructed images.
-Significantly, our proposed method, E-RCSPAN, demonstrates enhanced performance in PSNR, SSIM, PI, and other metrics, along with improved visual quality. Our results indicate that E-RCSPAN consistently surpasses traditional methods and current state-of-the-art models across various benchmark datasets and scaling factors. These findings highlight the effectiveness of our approach in advancing image super-resolution capabilities, striking a solid balance between performance and computational efficiency for practical applications. 
+Significantly, our proposed method, RPC-SPAN, demonstrates enhanced performance in PSNR, SSIM, PI, and other metrics, along with improved visual quality. Our results indicate that RPC-SPAN consistently surpasses traditional methods and current state-of-the-art models across various benchmark datasets and scaling factors. These findings highlight the effectiveness of our approach in advancing image super-resolution capabilities, striking a solid balance between performance and computational efficiency for practical applications. 
 Keywords: Single Image Super Resolution, , Channel Splitting Attention, Parrall Channel Attention, Low Complexity.
 
 
