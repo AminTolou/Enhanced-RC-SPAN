@@ -1,8 +1,8 @@
 # Enhanced-RC-SPAN
-Enhanced RC-SPAN -Enhanced Residual Channel  Splitting Attention Network for Single Image Super resolution 
+ RPC-SPAN -Residual Parallel Channel  Splitting Attention Network for Single Image Super resolution 
 
 
-E-RCSPAN-Enhanced RC-SPAN for Single-Image Super Resolution 
+E-RPCSPAN-Enhanced RC-SPAN for Single-Image Super Resolution 
 
 Abstract
 This paper presents a novel approach to image super-resolution that incorporates the Parallel Channel Attention (PCA) mechanism within the Residual Channel Split Attention Network (RC-SPAN). The aim is to enhance the network's ability to prioritize key features while effectively balancing the contributions from different channels, thereby improving image quality and detail retention. The RC-SPAN architecture is thoughtfully constructed, including a shallow feature extraction module, multiple residual groups, an attention mechanism, an upscaling module, and a reconstruction component. We integrate Parallel Channel Attention into the attention mechanism, which combines global average pooling with a texture function. This method evaluates channel importance by using the contrast of each channel alongside the average, with the expectation that channels rich in texture will exhibit higher contrast, leading to a more accurate assessment of channel significance and better detail preservation in the reconstructed images.
